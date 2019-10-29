@@ -3,7 +3,7 @@ bcrypt==3.1.7
 cffi==1.12.3
 Django==2.2.2
 Faker==1.0.7
-Pillow==6.0.0
+Pillow==6.2.0
 pycparser==2.19
 python-dateutil==2.8.0
 pytz==2019.1
